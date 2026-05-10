@@ -1,2 +1,2 @@
-# week1-day--1-Assignment
-This is my first Assessment website
+ This repository contains my day 2 assignment for week one
+ has 4 files  business-card. html , styles.css ,pricing.html and pricingstyles.css
